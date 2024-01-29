@@ -1,5 +1,5 @@
 Hello this is my first repo. trough SSH
 <br>
-Author - Harshi Nagar
+Author - Harshit Nagar
 <br>
 # hello 
